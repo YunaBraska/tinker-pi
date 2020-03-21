@@ -29,7 +29,7 @@
 [gitter_link]: https://gitter.im/nats-streaming-server-embedded/Lobby
 
 ## Motivation
-Since i am using the PI Zero for many projects, i wanted to have a way for setting it up without any keyboard or monitor connected
+Since i am using the PI Zero for many projects, i needed a a way to setup a pi without any keyboard or monitor connected
 
 ## How to use it
 This script will install (only if no image is already installed) `Raspian lite` image which can be changed in the script by changing the `PI_IMAGE_URL` variable
