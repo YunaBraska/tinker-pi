@@ -32,6 +32,7 @@
 Since i am using the PI Zero for many projects, i wanted to have a way for setting it up without any keyboard or monitor connected
 
 ## How to use it
+This script will install (only if no image is already installed) `Raspian lite` image which can be changed in the script by changing the `PI_IMAGE_URL` variable
 1) Download the script `tinkerPi.sh`
 2) Insert an empty or pi micro SD-Card in your computer
 
