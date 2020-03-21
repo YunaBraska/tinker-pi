@@ -97,7 +97,6 @@ function assertVolumeExists() {
 }
 
 function downloadPiImage() {
-  echo "isPiImage $(isPiImage "${1}")"
   if [[ "$(isPiImage "${1}")" == "false" ]]; then
     speak "Do you want install to the raspberry pi image on ${1}?"
     echo -e "Do you want install to the raspberry pi image on [${yel}${1}${cen}]?"
